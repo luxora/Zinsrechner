@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ZR</string>
+    <string name="beginn_ende_eintragen">Bitte Beginn und Ende des Zeitraums eintragen</string>
 </resources>
