@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">ZR</string>
     <string name="beginn_ende_eintragen">Bitte Beginn und Ende des Zeitraums eintragen</string>
+    <string-array name="leistungsart_array">
+        <item>Verletztengeld</item>
+        <item>Versichertenrente</item>
+        <item>Waisenrente</item>
+        <item>Witwenrente</item>
+        <item>Witwerrente</item>
+    </string-array>
+
 </resources>

@@ -18,6 +18,9 @@ public class zinszeitraeume extends AppCompatActivity {
 
 
 
+
+
+
         // PRÜFE clicked Weiter Button:
         Button weiterbutton = (Button) findViewById(R.id.weiter_button);
 
@@ -62,6 +65,9 @@ public class zinszeitraeume extends AppCompatActivity {
 
 
 
+
+
+
             }
         });
 
@@ -73,4 +79,10 @@ public class zinszeitraeume extends AppCompatActivity {
 
     }
 
-}
+
+
+} // on create
+
+
+// class
+
